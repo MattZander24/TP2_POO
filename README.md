@@ -1,2 +1,2 @@
-# Trabajo Practico 1 - POO
+# Trabajo Practico 2 - POO
 # Matt Zander - 182882
